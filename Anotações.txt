@@ -1,0 +1,4 @@
+Realizado a alteração do objeto copiado do repositório para teste. 
+O próximo passo agora, é commitar as alterações realizadas no objeto, e dar um pull com o objeto atualizado para o o GitHub.
+
+ 
